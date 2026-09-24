@@ -1,6 +1,11 @@
 ---
 name: interior-plan-studio
+display_name: 室内设计出图助手
+display_name_en: Interior Plan Studio
+version: 1.0.0
 description: GPT-image2 室内应用提示词库——把户型图/平面图/手绘草图一键转换为专业室内设计图。支持 8 种输出：写实材质平面图、手绘图转 CAD 风格线稿、空户型家具布置图、空白平面功能布局（咖啡厅等业态）、家具尺寸与人体尺度分析图、9 页方案汇报 PPT 九宫格、三色动线分析图、空间区域 4K 实景效果图。当用户上传户型图、平面布置图、平面图、手绘平面草图、毛坯图，并提出"生成效果图/材质图/分析图/动线图/汇报 PPT/CAD 线稿/家具布置/平面布局"等需求，或提到"室内设计、户型图效果、GPT-image2、室内应用"时使用。
+description_zh: 室内设计出图助手：把户型图/平面图/手绘草图一键转换为 8 种专业室内设计图（写实材质平面图、CAD 风格线稿、家具布置图、功能布局、人体尺度分析图、9 页汇报 PPT、三色动线分析图、4K 实景效果图），图生图高保真锁定原图布局。
+description_en: Interior Plan Studio — turn any floor plan or hand-drawn sketch into 8 kinds of professional interior design deliverables (material plan, CAD-style drawing, furniture layout, functional zoning, human-scale analysis, 9-page proposal board, circulation analysis, photorealistic render) via high-fidelity image-to-image generation.
 ---
 
 # GPT-image2 室内应用
